@@ -13,7 +13,7 @@ For more, please see our ["Statement of Purpose"](https://docs.google.com/presen
 
 [11/30] **Low-precision training of DNNS**, by Jack Kendall from [Rain Neuromorphics (S18)](http://rain-neuromorphics.com/)
 
-[11/02] **Evaluating model performance with noisy, partially observed ground truth**, by Alex Paino and Yuan Zhuang from [Sift Science (S11)](https://siftscience.com/)
+[11/02] [**Evaluating model performance with noisy, partially observed ground truth**](notes/181102-evaluating-noisy.md), by Alex Paino and Yuan Zhuang from [Sift Science (S11)](https://siftscience.com/)
 
 ## Contributing
 Make this _your_ resource! Open issues for questions/topics that you'd like to explore. Open pull requests to add your own ideas, best practices, papers, etc.
