@@ -9,6 +9,8 @@ This repository is a living knowledge base to collect notes, learnings, and best
 For more, please see our ["Statement of Purpose"](https://docs.google.com/presentation/d/1m3YQjvQsC-OT-SBnslvplqkIC711X66IWhHJDJwUGhI/edit#slide=id.p), as presented in the first session.
 
 ## Sessions
+[12/13] [**Human-in-the-loop data annotation**](notes/181213-data-annotation.md), by Maciej Szpakowski from [Researchably](https://researchably.com/)
+
 [11/30] [**Low-precision training of DNNS**](notes/181130-low-precision-dnn.md), by Jack Kendall from [Rain Neuromorphics (S18)](http://rain-neuromorphics.com/)
 
 [11/02] [**Evaluating model performance with noisy, partially observed ground truth**](notes/181102-evaluating-noisy.md), by Alex Paino and Yuan Zhuang from [Sift Science (S11)](https://siftscience.com/)
